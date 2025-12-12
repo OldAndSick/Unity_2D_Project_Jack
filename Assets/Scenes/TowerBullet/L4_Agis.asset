@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1867a383718f5941a91555c6796eba3, type: 3}
+  m_Name: L4_Agis
+  m_EditorClassIdentifier: Assembly-CSharp::TowerBulletSO
+  speed: 10
+  lifeTime: 5
+  bulletSkin: {fileID: 5836375190680177828, guid: 17a9fee22ef375d4dbc3d7a7ddf520b0, type: 3}
+  hitSkin: {fileID: 994691985869631322, guid: ee8acc7a51b049b46b60355444457f0c, type: 3}

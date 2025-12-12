@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1867a383718f5941a91555c6796eba3, type: 3}
+  m_Name: L2_FlyingEye
+  m_EditorClassIdentifier: Assembly-CSharp::TowerBulletSO
+  speed: 10
+  lifeTime: 5
+  bulletSkin: {fileID: 5458568376869191023, guid: 5b7596e957c639241bf9b3df24013937, type: 3}
+  hitSkin: {fileID: 4706899173789491472, guid: 89c43ae6ab3f70846bbbb12834d4850a, type: 3}

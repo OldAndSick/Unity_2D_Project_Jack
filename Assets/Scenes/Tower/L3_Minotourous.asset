@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc5d7c5994adb874f82901c16f69fe25, type: 3}
+  m_Name: L3_Minotourous
+  m_EditorClassIdentifier: Assembly-CSharp::TowerSO
+  type: 13
+  tier: 3
+  towerName: Minotarurus
+  prefabs: {fileID: 550847187498448057, guid: 6d732579090ccc9489ff89872e35008f, type: 3}
+  manaCost: 20
+  attackSpeed: 2
+  towerDamage: 3
+  attackRange: 3
+  isSplash: 0
+  splashRange: 0
+  nextTierTower: []

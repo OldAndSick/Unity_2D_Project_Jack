@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - TileInstall
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ground
+    uniqueID: 3925001157
+    locked: 0
+  - name: sub
+    uniqueID: 2112108415
+    locked: 0
+  - name: walk
+    uniqueID: 3275432493
+    locked: 0
+  - name: wall
+    uniqueID: 1984552115
+    locked: 0
+  - name: unit
+    uniqueID: 3264351505
+    locked: 0
+  m_RenderingLayers:
+  - Default

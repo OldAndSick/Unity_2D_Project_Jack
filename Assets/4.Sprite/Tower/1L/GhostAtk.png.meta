@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: a73a12614ff913743922cc16ca21d0ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4725297400417914360
+    second: ghost sliem lizarmage_0
+  - first:
+      213: -7760574809065179076
+    second: ghost sliem lizarmage_1
+  - first:
+      213: 2733428449697476078
+    second: ghost sliem lizarmage_2
+  - first:
+      213: 5836149614427906155
+    second: ghost sliem lizarmage_3
+  - first:
+      213: 7010374247333583749
+    second: ghost sliem lizarmage_4
+  - first:
+      213: -8659383861775022543
+    second: ghost sliem lizarmage_5
+  - first:
+      213: 6656620376900060931
+    second: ghost sliem lizarmage_6
+  - first:
+      213: 541998687143805432
+    second: ghost sliem lizarmage_7
+  - first:
+      213: -1006416329396041469
+    second: ghost sliem lizarmage_8
+  - first:
+      213: -3590087294253144964
+    second: ghost sliem lizarmage_9
+  - first:
+      213: -4865401800192626095
+    second: ghost sliem lizarmage_10
+  - first:
+      213: 5625433194921539718
+    second: ghost sliem lizarmage_11
+  - first:
+      213: -1698773269281352600
+    second: ghost sliem lizarmage_12
+  - first:
+      213: 4498879236535252873
+    second: ghost sliem lizarmage_13
+  - first:
+      213: 5274838393253951596
+    second: ghost sliem lizarmage_14
+  - first:
+      213: 1910680002711026530
+    second: ghost sliem lizarmage_15
+  - first:
+      213: -4572492727705011943
+    second: ghost sliem lizarmage_16
+  - first:
+      213: -6916639400690334195
+    second: ghost sliem lizarmage_17
+  - first:
+      213: -9004809568446868971
+    second: ghost sliem lizarmage_18
+  - first:
+      213: -1161167558084688408
+    second: ghost sliem lizarmage_19
+  - first:
+      213: 6905279448505463978
+    second: ghost sliem lizarmage_20
+  - first:
+      213: 1046703705673692366
+    second: ghost sliem lizarmage_21
+  - first:
+      213: -1502608496084247777
+    second: ghost sliem lizarmage_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 89
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802730ecc0f5c6eb0800000000000000
+      internalID: -4725297400417914360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3833d41456ec4490800000000000000
+      internalID: -7760574809065179076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 89
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed2a2351b61fe520800000000000000
+      internalID: 2733428449697476078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 90
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b602200372b2ef050800000000000000
+      internalID: 5836149614427906155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b5dd24c3ad94160800000000000000
+      internalID: 7010374247333583749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 89
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364621d140b3d780800000000000000
+      internalID: -8659383861775022543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_6
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 88
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30741c9e6f0116c50800000000000000
+      internalID: 6656620376900060931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghost sliem lizarmage_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 89
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f14fef2fe0958700800000000000000
+      internalID: 541998687143805432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 62aef1b1fde9dcf499ec9ddd18787c2e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ghost sliem lizarmage_0: -4725297400417914360
+      ghost sliem lizarmage_1: -7760574809065179076
+      ghost sliem lizarmage_10: -4865401800192626095
+      ghost sliem lizarmage_11: 5625433194921539718
+      ghost sliem lizarmage_12: -1698773269281352600
+      ghost sliem lizarmage_13: 4498879236535252873
+      ghost sliem lizarmage_14: 5274838393253951596
+      ghost sliem lizarmage_15: 1910680002711026530
+      ghost sliem lizarmage_16: -4572492727705011943
+      ghost sliem lizarmage_17: -6916639400690334195
+      ghost sliem lizarmage_18: -9004809568446868971
+      ghost sliem lizarmage_19: -1161167558084688408
+      ghost sliem lizarmage_2: 2733428449697476078
+      ghost sliem lizarmage_20: 6905279448505463978
+      ghost sliem lizarmage_21: 1046703705673692366
+      ghost sliem lizarmage_22: -1502608496084247777
+      ghost sliem lizarmage_3: 5836149614427906155
+      ghost sliem lizarmage_4: 7010374247333583749
+      ghost sliem lizarmage_5: -8659383861775022543
+      ghost sliem lizarmage_6: 6656620376900060931
+      ghost sliem lizarmage_7: 541998687143805432
+      ghost sliem lizarmage_8: -1006416329396041469
+      ghost sliem lizarmage_9: -3590087294253144964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

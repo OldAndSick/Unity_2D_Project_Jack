@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1867a383718f5941a91555c6796eba3, type: 3}
+  m_Name: L3_Necromancer
+  m_EditorClassIdentifier: Assembly-CSharp::TowerBulletSO
+  speed: 10
+  lifeTime: 5
+  bulletSkin: {fileID: 8701657522010328501, guid: d5e89d370a33eba4092fc487eaa6d336, type: 3}
+  hitSkin: {fileID: 4246194231556209902, guid: c39bd3890c6e4724d998dd3f508ddfaf, type: 3}

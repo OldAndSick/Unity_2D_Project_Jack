@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1867a383718f5941a91555c6796eba3, type: 3}
+  m_Name: L1_BlueGolem
+  m_EditorClassIdentifier: Assembly-CSharp::TowerBulletSO
+  speed: 10
+  lifeTime: 5
+  bulletSkin: {fileID: 6731077365743149939, guid: 6510ccc83aba05b4fab040fa2d69010f, type: 3}
+  hitSkin: {fileID: 4567725559459905387, guid: c1780433dba303b45bf3e6b3f2b4cb49, type: 3}

@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: f37dbb2c21dbfeb43bf5caf1bb935f0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4725297400417914360
+    second: ghost sliem lizarmage_0
+  - first:
+      213: -7760574809065179076
+    second: ghost sliem lizarmage_1
+  - first:
+      213: 2733428449697476078
+    second: ghost sliem lizarmage_2
+  - first:
+      213: 5836149614427906155
+    second: ghost sliem lizarmage_3
+  - first:
+      213: 7010374247333583749
+    second: ghost sliem lizarmage_4
+  - first:
+      213: -8659383861775022543
+    second: ghost sliem lizarmage_5
+  - first:
+      213: 6656620376900060931
+    second: ghost sliem lizarmage_6
+  - first:
+      213: 541998687143805432
+    second: ghost sliem lizarmage_7
+  - first:
+      213: -1006416329396041469
+    second: ghost sliem lizarmage_8
+  - first:
+      213: -3590087294253144964
+    second: ghost sliem lizarmage_9
+  - first:
+      213: -4865401800192626095
+    second: ghost sliem lizarmage_10
+  - first:
+      213: 5625433194921539718
+    second: ghost sliem lizarmage_11
+  - first:
+      213: -1698773269281352600
+    second: ghost sliem lizarmage_12
+  - first:
+      213: 4498879236535252873
+    second: ghost sliem lizarmage_13
+  - first:
+      213: 5274838393253951596
+    second: ghost sliem lizarmage_14
+  - first:
+      213: 1910680002711026530
+    second: ghost sliem lizarmage_15
+  - first:
+      213: -4572492727705011943
+    second: ghost sliem lizarmage_16
+  - first:
+      213: -6916639400690334195
+    second: ghost sliem lizarmage_17
+  - first:
+      213: -9004809568446868971
+    second: ghost sliem lizarmage_18
+  - first:
+      213: -1161167558084688408
+    second: ghost sliem lizarmage_19
+  - first:
+      213: 6905279448505463978
+    second: ghost sliem lizarmage_20
+  - first:
+      213: 1046703705673692366
+    second: ghost sliem lizarmage_21
+  - first:
+      213: -1502608496084247777
+    second: ghost sliem lizarmage_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SlimeAtk_16
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 9
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26a7f587db2d1e47a29fd751892e35b
+      internalID: -276474711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_17
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd00844e1877fe8488bb0eb728aae63d
+      internalID: -1045283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b50e8d63ce24546a958d15889db739
+      internalID: 1311161723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 23
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6894865457f899c44a9424dbddc84370
+      internalID: -963690814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 15
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd03cc88a407144eab7ab62651a4135
+      internalID: -950353114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_21
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 9
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151094be1c727ba4d9f2e4e5f7daceaf
+      internalID: 1800326786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SlimeAtk_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 9
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414479035ef806a4dbf5fb3dfcd060d3
+      internalID: -1278498081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 18ce22380c6c68e488394bf2f0dcffac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SlimeAtk_0: -1735270549
+      SlimeAtk_1: -157041245
+      SlimeAtk_10: -1640962131
+      SlimeAtk_11: 1800822890
+      SlimeAtk_12: -1927718120
+      SlimeAtk_13: 945479712
+      SlimeAtk_14: 264388786
+      SlimeAtk_15: -790716676
+      SlimeAtk_16: -276474711
+      SlimeAtk_17: -1045283912
+      SlimeAtk_18: 1311161723
+      SlimeAtk_19: -963690814
+      SlimeAtk_2: 912114879
+      SlimeAtk_20: -950353114
+      SlimeAtk_21: 1800326786
+      SlimeAtk_22: -1278498081
+      SlimeAtk_23: -2015131953
+      SlimeAtk_3: -60170529
+      SlimeAtk_4: 30534601
+      SlimeAtk_5: -92249663
+      SlimeAtk_6: 357606596
+      SlimeAtk_7: -1767780029
+      SlimeAtk_8: -1273849559
+      SlimeAtk_9: 500360338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

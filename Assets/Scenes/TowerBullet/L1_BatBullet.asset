@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1867a383718f5941a91555c6796eba3, type: 3}
+  m_Name: L1_BatBullet
+  m_EditorClassIdentifier: Assembly-CSharp::TowerBulletSO
+  speed: 10
+  lifeTime: 5
+  bulletSkin: {fileID: 1397569910543324211, guid: 4dfc0df205d15844684e4789e31e2d59, type: 3}
+  hitSkin: {fileID: 1976993080382393241, guid: fbb75f2aa72797d40b1fc9cec2bf07d5, type: 3}
